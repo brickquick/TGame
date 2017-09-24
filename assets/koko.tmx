@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="32" height="32" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="jklol" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="terrain_atlas.png" width="1024" height="1024"/>
+  <tile id="304">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="721">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="722">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="782">
+   <properties>
+    <property name="animation" value="veg"/>
+   </properties>
+  </tile>
+  <tile id="814">
+   <properties>
+    <property name="animation" value="veg"/>
+   </properties>
+  </tile>
+  <tile id="816">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="817">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="818">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="846">
+   <properties>
+    <property name="animation" value="veg"/>
+   </properties>
+  </tile>
+  <tile id="878">
+   <properties>
+    <property name="animation" value="veg"/>
+   </properties>
+  </tile>
+  <tile id="910">
+   <properties>
+    <property name="animation" value="veg"/>
+   </properties>
+  </tile>
+  <tile id="934">
+   <properties>
+    <property name="animation" value="grass"/>
+   </properties>
+  </tile>
+  <tile id="935">
+   <properties>
+    <property name="animation" value="grass"/>
+   </properties>
+  </tile>
+  <tile id="936">
+   <properties>
+    <property name="animation" value="grass"/>
+   </properties>
+  </tile>
+  <tile id="942">
+   <properties>
+    <property name="animation" value="veg"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1025" name="65" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="tileset.png" width="512" height="512"/>
+ </tileset>
+ <layer name="background" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztVsFRw0AMvNy5EscNEDow6TUNhEYyoQGgEE7DaVjvSNiWzYs8dmJHultJK2l8KyndHnjgnyLnlD4OKX1WvB/2e17DXyq6vO/zGv6nGu+pLMOcr9j7AP+5/o4VL/n7GfPB/MSXbR28i30M8POdksOxYmjQ9xNppnbkX6u/1gz5rtX2Wqa1sPI+NyB/RH+sveBebW/NrrFxjB2cQf6I/j3p37V3/J9j9Pgj+uPdmuOROAejVyz+iP5j/oHeibkqlvD/5fw/tzMYg2qxRX/scQ+437AXVZs95r83YO0G7kXsj4j+yjESmHuY6ZOo/lpj7nfedbqPtDYcyxb9rboi/6VM/Zhb6x/V36s59nZ2uLH+Uf31Pt6zA+TGNbJ8ovp7exZz8/JGn6j+kz6a2UNyRnYRn9k6/572/J1nxbxl/+v8edrL3XeI8zf+iP44z5a2/B3k9WJUf957PGMy+xfQ2+vFkP4zvSZ9VrTuC3z3+v7P0H+WTzHs6rOU/wuI4ufE
+  </data>
+ </layer>
+ <layer name="foreground" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQAzQZRq1fyTbPwpGwSgYBaMAAjYBy2MhIN48QOXyJaC9l6GY1oCfmTRxatsNw/QGyHYPlBs2DWAaA4FLdEpj9AYA3zEIfg==
+  </data>
+ </layer>
+ <layer name="foreground1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCSoYmRg+MREHK4koBZkFjn2Ewu+ElBLa/tBfhxI+2lh1qj9xKutHOD0R6v0T2z+/zya/kftH6H23xxg+6uJUEdL+wmVPdS0/yOBcgikB70s+kiH9gchPfS0XwOIVwBxAROE1mSkn/2gtNgJxNuA7HCg/TuAdDsjcWkUHRCTrrDp8QDiDCTsyUieWYTSGnI6I0XtKCAMALxjWzw=
+  </data>
+ </layer>
+</map>
